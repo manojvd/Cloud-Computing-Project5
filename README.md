@@ -1,5 +1,5 @@
-# deploying-flask-and-mongodb-in-k8s
-In this project, we will work with Docker and Kubernetes to make an easily deployable and portable blogging web-app using Flask and MongoDB.
+# Deployable and portable blogging web-app using Flask and MongoDB
+In this project, we worked with Docker and Kubernetes to make an easily deployable and portable blogging web-app using Flask and MongoDB.
 
 
 ## Problem Statement
